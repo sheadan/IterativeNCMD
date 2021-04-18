@@ -1,2 +1,6 @@
 # IterativeNCMD
 Iterative Nonlinear Chirp Mode Decomposition
+
+The code in this repository aims to create a working copy of the Iterative Nonlinear Chirp Mode Decomposition technique proposed in Tu et. al in [1].
+
+[1] Tu, Guowei, Xingjian Dong, Shiqian Chen, Baoxuan Zhao, Lan Hu, and Zhike Peng. “Iterative Nonlinear Chirp Mode Decomposition: A Hilbert-Huang Transform-like Method in Capturing Intra-Wave Modulations of Nonlinear Responses.” Journal of Sound and Vibration 485 (October 2020): 115571. [https://doi.org/10.1016/j.jsv.2020.115571.](https://doi.org/10.1016/j.jsv.2020.115571)
